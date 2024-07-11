@@ -2,6 +2,10 @@
 
 Currently, I am in the final stages of my master's studies in Computer Science at the University of Warsaw. In my repositories, you can find projects that were developed as part of my coursework. Each repository name consists of an abbreviation of the subject in which the project was completed, followed by the project name after the first '-'.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarcinBrojek&row=1&margin-w=10)](https://github.com/MarcinBrojek/github-profile-trophy)
+
+<img src="https://myreadme.vercel.app/api/embed/MarcinBrojek?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 <!--
 **MarcinBrojek/MarcinBrojek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
