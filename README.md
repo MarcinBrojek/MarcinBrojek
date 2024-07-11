@@ -6,6 +6,8 @@ Currently, I am in the final stages of my master's studies in Computer Science a
 
 <img src="https://myreadme.vercel.app/api/embed/MarcinBrojek?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+![](https://komarev.com/ghpvc/?username=MarcinBrojek&style=plastic&color=yellow)
+
 <!--
 **MarcinBrojek/MarcinBrojek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
